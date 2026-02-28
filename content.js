@@ -27,7 +27,7 @@ const VERDICTS_MAP = {
     "Time Limit Exceeded": "sounds/CHICKEN.mp3",
     "Memory Limit Exceeded": "sounds/EHEHH.mp3",
     "Runtime Error": "sounds/GEY.mp3",
-    "Compile Error": "sounds/DUNDUN.mp3",
+    "Compile Error": "sounds/HELLNO.mp3",
     "Output Limit Exceeded": "sounds/FART.mp3",
     "Internal Error": "sounds/FART.mp3"
 };
